@@ -42,8 +42,7 @@ Start drawing on the canvas using your finger or a stylus.
 Explore other tools and features to create your artwork.
 
 Contributors
-CHIRAYU V GANGADKAR
-DHANUSH C
+CHIRAYU V GANGADKAR, DHANUSH C
 
 
 
