@@ -44,9 +44,48 @@ Explore other tools and features to create your artwork.
 Contributors
 CHIRAYU V GANGADKAR, DHANUSH C
 
+DOWNLOAD ANDROID STUDIO 
 
+macOS:
+
+Download the Android Studio package from the official website: Android Studio Downloads
+[https://developer.android.com/studio?gclid=Cj0KCQjwtamlBhD3ARIsAARoaEx4K2RcnYFyP3PJCFAtb2AT9tqxy3WzQoh2XtVk28Wn9ZvJJDN0l4MaAs4dEALw_wcB&gclsrc=aw.ds]
+
+Open the downloaded package (e.g., android-studio-ide-<version>.dmg).
+
+Drag and drop Android Studio into the "Applications" folder.
+
+Open the "Applications" folder and launch Android Studio.
+
+Follow the on-screen instructions to complete the installation.
+
+Windows
+Download the Android Studio installer from the official website: Android Studio Downloads.
+[https://developer.android.com/studio?gclid=Cj0KCQjwtamlBhD3ARIsAARoaEx4K2RcnYFyP3PJCFAtb2AT9tqxy3WzQoh2XtVk28Wn9ZvJJDN0l4MaAs4dEALw_wcB&gclsrc=aw.ds]
+
+Run the downloaded installer (e.g., android-studio-ide-<version>.exe).
+
+Follow the on-screen instructions to complete the installation. You can customize the installation location if needed.
+
+Once the installation is complete, launch Android Studio
 
 Save your artwork or share it with others.
+
+Download the Android Studio package from the official website: Android Studio Downloads.
+[https://developer.android.com/studio?gclid=Cj0KCQjwtamlBhD3ARIsAARoaEx4K2RcnYFyP3PJCFAtb2AT9tqxy3WzQoh2XtVk28Wn9ZvJJDN0l4MaAs4dEALw_wcB&gclsrc=aw.ds]
+
+Extract the downloaded package (e.g., android-studio-ide-<version>.tar.gz) to a location of your choice.
+
+tar -xvzf android-studio-ide-<version>.tar.gz
+
+Navigate to the extracted directory.
+cd android-studio-<version>/
+
+Launch Android Studio using the studio.sh script.
+./studio.sh
+
+Follow the on-screen instructions to complete the installation.
+
 
 
 
