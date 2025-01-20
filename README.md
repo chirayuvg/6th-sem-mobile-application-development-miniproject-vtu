@@ -1,7 +1,5 @@
 # Paint Application
 
----
-
 ## Description
 
 The paint application provides users with a platform to create digital drawings, sketches, and paintings. It offers various tools and features to help users unleash their creativity and produce visually appealing artwork.  
@@ -32,7 +30,7 @@ The application includes:
 - **Android SDK:** Provides tools, libraries, and system resources for development.
 
 ---
-#3 Usage
+## Usage
 - Launch the paint application on your Android device.
 - Select a drawing tool from the toolbar at the top of the screen.
 - Customize tool settings such as size and color.
