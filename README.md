@@ -45,6 +45,6 @@ The application includes:
 ### Clone the repository:
 
 ```sh
-git clone https://github.com/your-username/paint-application.git
+git clone https://github.com/chirayuvg/6th-sem-mobile-application-development-miniproject-vtu.git
 
 
